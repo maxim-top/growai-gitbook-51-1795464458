@@ -132,7 +132,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "https://ldpsxr.site.chatai101.com"
+            "baseURL": "https://kb.seenical.ai"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -149,12 +149,12 @@
             "token": "e78e9e5952ccb5b1b443e429da5f0b03"
         },
         "ga4": {
-            "tag": "G-MCK9QMYYP9"
+            "tag": "G-Y8B64RVKFJ"
         },
         "lanying-grow-ai": {
             "footer_note": "内容由 知见 Seenical AI Agent 基于企业知识库生成，发布前请检查关键信息与引用来源。",
             "lanying_link": "https://lanying.link/3qur4g",
-            "sitemap_hostname": "https://ldpsxr.site.chatai101.com/"
+            "sitemap_hostname": "https://kb.seenical.ai/"
         }
     }
 }
