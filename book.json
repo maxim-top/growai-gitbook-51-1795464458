@@ -58,7 +58,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2026 DemoApp | <a href='https://www.seenical.ai/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2026 蓝莺智能 | <a href='https://www.seenical.ai/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -152,7 +152,7 @@
             "tag": "G-Y8B64RVKFJ"
         },
         "lanying-grow-ai": {
-            "footer_note": "内容由 知见 Seenical AI Agent 基于企业知识库生成，发布前请检查关键信息与引用来源。",
+            "footer_note": "内容由 知见 Seenical AI Agent 创作，发布前请检查关键信息与引用来源。",
             "lanying_link": "https://lanying.link/3qur4g",
             "sitemap_hostname": "https://kb.seenical.ai/"
         }
