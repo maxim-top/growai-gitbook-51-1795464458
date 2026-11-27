@@ -41,7 +41,8 @@
         "lanying-grow-ai-theme@^1.0.9",
         "lanying-grow-ai-expandable-chapters@^0.1.8",
         "lanying-grow-ai-image-captions@^3.1.1",
-        "tbfed-pagefooter@^0.0.1"
+        "tbfed-pagefooter@^0.0.1",
+        "versions-select@^0.1.1"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -154,7 +155,21 @@
         "lanying-grow-ai": {
             "footer_note": "内容由 知见 Seenical.AI 创作发布，可能存在更新不及时或不准确的地方，请以官方介绍为准。",
             "lanying_link": "https://lanying.link/3qur4g",
-            "sitemap_hostname": "https://kb.seenical.ai/"
+            "sitemap_hostname": "https://kb.seenical.ai/",
+            "sitemap_default_language": ""
+        },
+        "versions": {
+            "type": "languages",
+            "options": [
+                {
+                    "value": "/",
+                    "text": "简体中文"
+                },
+                {
+                    "value": "/en/",
+                    "text": "English"
+                }
+            ]
         }
     }
 }
