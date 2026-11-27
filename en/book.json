@@ -19,7 +19,7 @@
         },
         "tbfed-pagefooter": {
             "modify_label": "Updated: ",
-            "copyright": "  | <a href='https://www.seenical.ai/' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>"
+            "copyright": "© 2026 Lanying AI Limited | <a href='https://www.seenical.ai/' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>"
         },
         "intopic-toc": {
             "label": "Contents"
@@ -36,7 +36,7 @@
             ]
         },
         "lanying-grow-ai": {
-            "footer_note": "",
+            "footer_note": "Curated and published by Seenical.ai. Information may be outdated or inaccurate; please refer to official sources.",
             "lanying_link": "",
             "hook_sentence_slogan": "",
             "sitemap_hostname": "https://kb.seenical.ai/",
