@@ -19,13 +19,13 @@
         },
         "tbfed-pagefooter": {
             "modify_label": "该文件修订时间：",
-            "copyright": "© 2026 蓝莺智能 | <a href='https://www.seenical.ai/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>"
+            "copyright": "© 2026 蓝莺智能 | <a href='https://www.seenical.cn/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>"
         },
         "intopic-toc": {
             "label": "内容"
         },
         "logo": {
-            "url": "https://www.seenical.ai/"
+            "url": "https://www.seenical.cn/"
         },
         "meta": {
             "data": [
